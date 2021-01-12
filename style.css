@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700');
  :root {
-	 --color-default-222: rgb(216, 2, 2);
+	 --color-default-222: #222;
 	 --color-default-333: #333;
 	 --color-default-FFF: rgba(255, 255, 255, 1);
 	 --comum-color: #666;
